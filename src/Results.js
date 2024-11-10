@@ -13,7 +13,7 @@ export default function Results(props) {
             <Phonetic phonetic={props.results.phonetic} />
           </div>
         </section>
-        <br />
+
         {props.results.meanings.map(function (meanings, index) {
           return (
             <section key={index}>

@@ -4,6 +4,11 @@
   line-height: 1.5;
 }
 
+.meaning p {
+  font-size: 14px;
+  color: #000;
+}
+
 .Meanings .example {
   font-style: italic;
   color: #7b00ff;
