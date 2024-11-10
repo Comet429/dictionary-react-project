@@ -1,0 +1,9 @@
+.Phonetic {
+  margin: 19px 0;
+}
+
+.Phonetic p {
+  font-size: 14px;
+  font-weight: bold;
+  opacity: 0.5;
+}
